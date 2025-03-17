@@ -1,0 +1,43 @@
+﻿"New zero-emission vehicle registrations, quarterly 1"
+"Frequency: Quarterly"
+"Table: 20-10-0025-01"
+"Release date: 2024-09-09"
+"Geography: Canada, Province or territory, Census subdivision, Census metropolitan area, Census agglomeration, Census metropolitan area part, Census agglomeration part"
+""
+""
+
+"Zero-Emission Vehicles Fuel Type","All zero-emission vehicles",,,,,,,,,,,,,,,,,,,,,,,,,
+"Vehicle type","Total, vehicle type 2",,,,,,,,,,,,,,,,,,,,,,,,,
+"Statistics","Number of vehicles",,,,,,,,,,,,,,,,,,,,,,,,,
+"Geography","Q1 2018","Q2 2018","Q3 2018","Q4 2018","Q1 2019","Q2 2019","Q3 2019","Q4 2019","Q1 2020","Q2 2020","Q3 2020","Q4 2020","Q1 2021","Q2 2021","Q3 2021","Q4 2021","Q1 2022","Q2 2022","Q3 2022","Q4 2022","Q1 2023","Q2 2023","Q3 2023","Q4 2023","Q1 2024","Q2 2024"
+,"Units",,,,,,,,,,,,,,,,,,,,,,,,,
+"Canada","6,844","14,879","12,622","9,938","8,275","19,446","16,186","12,258","11,923","9,203","17,299","15,928","17,285","24,006","23,962","21,014","26,034","29,840","34,316","33,420","30,977","47,683","57,406","52,685","48,411","65,733"
+"Newfoundland and Labrador 3","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"Prince Edward Island","5","5","5","1","7","11","15","11","7","5","27","6","21","21","89","43","45","47","73","55","76","120","159","147","108","173"
+"Nova Scotia 3","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"New Brunswick","10","16","9","21","12","61","53","40","37","31","66","46","67","117","182","107","157","204","252","248","220","458","536","532","468","799"
+"Quebec","2,565","5,121","4,432","5,725","3,795","9,369","7,822","6,085","5,638","4,472","8,618","7,374","6,901","11,784","10,611","7,676","10,408","11,105","12,205","12,163","11,932","20,129","24,307","23,429","23,476","33,911"
+"Ontario","2,748","6,946","5,258","1,806","1,342","2,878","3,148","2,394","2,102","1,640","3,296","3,477","3,329","5,096","5,162","6,129","7,124","9,534","11,013","10,991","8,520","12,797","14,710","14,105","11,026","14,377"
+"Manitoba","15","49","40","55","26","96","98","69","64","65","101","81","99","154","194","183","201","233","314","298","262","383","577","376","460","736"
+"Saskatchewan","11","24","23","29","25","50","53","57","47","35","76","41","104","100","131","143","130","194","203","178","188","280","350","258","265","336"
+"Alberta 3","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+"British Columbia","1,366","2,458","2,450","2,039","2,784","6,481","4,500","3,205","3,701","2,589","4,506","4,383","6,104","5,733","6,448","5,550","6,688","7,072","8,262","7,565","8,107","10,954","13,418","10,969","10,088","12,081"
+"Yukon","0","0","1","1","1","4","4","0","4","4","6","11","13","20","26","8","9","19","25","30","24","40","41","49","42","77"
+"Northwest Territories","0","0","2","1","0","0","0","1","0","0","5","2","2","3","6","5","8","7","6","6","2","10","12","9","4","12"
+"Nunavut","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..","..",".."
+
+Symbol legend:
+.., not available for a specific reference period
+
+
+
+
+Footnotes:
+1,"To ensure the confidentiality of the Zero-Emission Vehicles (ZEV) data, a process known as Random Tabular Adjustment (RTA) was used. This changes estimates by a random amount and adds a degree of uncertainty to the accuracy of the estimate to prevent the disclosure of individual values. As a result, estimates that could disclose an individual's response are not released. (Note that if the adjusted estimates are part of a table with totals or sub-totals, the related total and sub-total estimates will also be adjusted.)"
+2,"Total vehicle type excludes buses, trailers, recreational vehicles, motorcycles, snowmobiles, golf carts, etcetera."
+3,"Data for Newfoundland and Labrador, Nova Scotia and Alberta are currently not available due to contractual limitations of the existing data sharing agreement."
+
+
+
+"How to cite: Statistics Canada. Table 20-10-0025-01  New zero-emission vehicle registrations, quarterly"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010002501

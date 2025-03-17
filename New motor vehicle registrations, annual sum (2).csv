@@ -1,0 +1,32 @@
+﻿"New motor vehicle registrations, annual sum"
+"Frequency: Annual"
+"Table: 20-10-0024-02"
+"Release date: 2024-09-09"
+"Geography: Canada, Province or territory"
+""
+""
+
+"Geography","Canada",,,,
+"Vehicle type","Total, vehicle type 1",,,,
+"Statistics","Number of vehicles",,,,
+"Fuel type","2019","2020","2021","2022","2023"
+,"Units",,,,
+"All fuel types","1,930,445","1,545,561","1,646,604","1,513,104","1,714,913"
+"Gasoline","1,776,571","1,384,928","1,415,128","1,233,180","1,316,444"
+"Diesel","59,089","64,769","65,876","75,247","74,020"
+"Battery electric","35,523","39,036","58,952","98,620","143,661"
+"Hybrid electric","38,390","41,453","79,328","81,049","135,682"
+"Plug-in hybrid electric","20,642","15,317","27,315","24,990","45,090"
+"Other fuel types 2","230","58","5","18","16"
+
+
+
+
+Footnotes:
+1,"Total vehicle type excludes buses, trailers, recreational vehicles, motorcycles, snowmobiles, golf carts, etcetera."
+2,"Other fuel types include liquid propane, natural gas, hydrogen, etcetera."
+
+
+
+"How to cite: Statistics Canada. Table 20-10-0024-02  New motor vehicle registrations, annual sum"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2010002402
